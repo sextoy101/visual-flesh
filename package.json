@@ -1,5 +1,5 @@
 {
-  "name": "visual-flesh",
+  "name": "@sextoys101/visual-flesh",
   "version": "1.0.0",
   "description": "A tool for visualising inner texture and length for penetration-based sex toys for males.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sextoy101/visual-flesh.git"
+    "url": "git+ssh://git@github.com/sextoy101/visual-flesh.git"
   },
   "keywords": [
     "sex-toys",
@@ -16,5 +16,10 @@
     "canvas",
     "html5"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sextoy101/visual-flesh/issues"
+  },
+  "homepage": "https://github.com/sextoy101/visual-flesh#readme",
+  "author": "info@malesextoys.co"
 }
