@@ -7,4 +7,4 @@ A tool for visualising inner texture and length for penetration-based sex toys f
  * Thrusting animation
  * Supports metric and imperial units
 
-Designed to display the features of male sex toys like Fleshlight (Fleshjack). Actively used on official [Male Sex Toys CO](https://malesextoys.co) website.
+Designed to display the features of male sex toys like Fleshlight (Fleshjack). Actively used on official [Techy Sex](https://techysex.com) website.
