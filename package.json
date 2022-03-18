@@ -1,6 +1,6 @@
 {
   "name": "@sextoys101/visual-flesh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for visualising inner texture and length for penetration-based sex toys for males.",
   "main": "index.js",
   "scripts": {
